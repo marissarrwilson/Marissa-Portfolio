@@ -3,6 +3,8 @@
 ## What & Why?
 This is the start to my personal portfolio, which will eventually share to my linkedin page (once it is ready). It will display the work I have done so far and show what I am capable of creating to potential employers, friends, family and those simply curious!
 
+Link to deployed application: https://marissarrwilson.github.io/Marissa-Portfolio/
+
 ## Method
 I made this portfolio using HTML and inline CSS. I used the same nav bar for each page which I found on Bootstrap. To activate the links within the nav bar, I included the name of each html file in the href tag for each button.
 
@@ -16,10 +18,21 @@ I made this portfolio using HTML and inline CSS. I used the same nav bar for eac
 * For the "Portfolio" page:
     - I created a <container> within the <body> and inserted a series of placeholder images from placeholder.com and separated them from eachother with padding and <br> tags.
 
+# Screenshots
+
+## Homepage - About Me
+![Homepage - About Me](images/Homepage.png)
+
+## Portfolio Page
+![Portfolio Page](images/Portfolio.png)
+
+## Contact Page
+![Contact Page](images/Contact.png)
+
 ## Credits
 Individual work by me, Marissa Wilson, with the help of...
 - Instructors Fil and Daniel
-- Study group on Slack
+- The Boolean Bros
 
 ## License
 Copyright (c) [2020] [Marissa Wilson]
